@@ -63,7 +63,7 @@ Nekobabe@arch:~$ cp sample_config.py config.py
 </h2>
 
 ```console
-thehamkercat@arch:~$ python3 -m wbb
+Nekobabe@arch:~$ python3 -m wbb
 ```
 
 <h1>
